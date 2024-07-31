@@ -5,7 +5,7 @@
 }
 
 .cabeçalho {
-    background-color: #f4c3fb;
+    background-color: #ff9ffd;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -18,7 +18,7 @@
 }
 
 .cabeçalho-lista {
-    color: white;
+    color: rgb(0, 0, 0);
     font-size: 22px;
 }
 
@@ -38,7 +38,7 @@
 
 .nossa-escola {
     background-image: linear-gradient(#ff9ffd, #fffdc4);
-    color: white;
+    color: rgb(0, 0, 0);
     display: flex;
     justify-content: center;
     align-items: center;
