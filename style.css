@@ -56,3 +56,20 @@
     padding: 24px;
 }
 
+.nossa-escola-texto2 {
+    font-size: 26px;
+    padding: 24px;
+}
+
+.nossa-escola-div {
+    width: 40%;
+}
+
+.nossa-escola-imagem {
+    width: 30%;
+}
+
+.equipe {
+    background-color: #cd5f05db;
+    color: white;
+}
