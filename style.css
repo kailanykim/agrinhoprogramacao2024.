@@ -5,7 +5,7 @@
 }
 
 .cabeçalho {
-    background-color: #e4fec1;
+    background-color: #afff45;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -42,13 +42,13 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 24px 0;
+    padding: 10px 0;
 
 }
 
 .nossa-escola-título {
-    font-size: 32px;
-    padding: 24px;
+    font-size: 10px;
+    padding: 10px;
 }
 
 .nossa-escola-texto1 {
