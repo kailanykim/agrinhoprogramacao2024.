@@ -73,3 +73,43 @@
     background-color: #37a343db;
     color: white;
 }
+
+.professor{
+    width: 120px;
+}
+
+.ícone {
+    width: 24px;
+}
+
+.equipe-div {
+    text-align: center;
+    padding: 16px 0;
+}
+
+.equipe-título{
+    text-align: center;
+}
+
+.equipe-div-todos {
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+}
+
+.rodapé{
+    background-color: #300301;
+    color: #960903;
+    font-size: 20px;
+    display: flex;
+    justify-content: space-around;
+    padding: 50px 0;
+    align-items: center;
+}
+
+.rodapé-imagem{
+    width: 20px;
+}
+
+.rodapé-ícone{
+    width: 10px;
+}
