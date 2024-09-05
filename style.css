@@ -4,7 +4,7 @@ margin: 0;
 }
 
 .cabeçalho {
-    background-color: #300301;
+    background-color: #54c484;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -12,7 +12,7 @@ margin: 0;
 }
 
 .cabeçalho-título {
-    color: #C72A2C;
+    color: #5bb67a;
     font-size: 54px;
 }
 
@@ -36,7 +36,7 @@ margin: 0;
 }
 
 .nossa-escola {
-    background-image: linear-gradient(#300301, #960903);
+    background-image: linear-gradient(#299216, #138029);
     color: white;
     display: flex;
     justify-content: center;
