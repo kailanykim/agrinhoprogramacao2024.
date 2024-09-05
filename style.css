@@ -69,7 +69,7 @@ margin: 0;
 }
 
 .equipe {
-    background-color: #cd5f05db;
+    background-color: #2ea54cdb;
     color: white;
 }
 
@@ -96,8 +96,8 @@ margin: 0;
 }
 
 .rodapé{
-    background-color: #300301;
-    color: #960903;
+    background-color: #459e3f;
+    color: #7cc869;
     font-size: 20px;
     display: flex;
     justify-content: space-around;
