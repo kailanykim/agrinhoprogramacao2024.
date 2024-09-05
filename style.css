@@ -101,7 +101,7 @@ margin: 0;
     font-size: 80px;
     display: flex;
     justify-content: space-around;
-    padding: 90px 0;
+    padding: 20px 0;
     align-items: center;
 }
 
@@ -110,5 +110,5 @@ margin: 0;
 }
 
 .rodapé-ícone{
-    width: 90px;
+    width: 20px;
 }
